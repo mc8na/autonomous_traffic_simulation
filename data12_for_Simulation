@@ -1,0 +1,71 @@
+The number of time units requested is:
+8
+The requested maximum segment capacity (in cars) is:
+5
+The requested time to traverse segment is:
+2
+numIntersectionsInOneDirection:
+2
+number of cars created for the test:
+5
+car number:
+1
+born in the segment that is positioned at col:
+2
+born in the segment that is positioned at row:
+1
+born in the segment that is oriented in direction:
+1
+additional blocks to travel prior to turning (-1 means the car will never turn):
+0
+direction the car will turn, when the car turns:
+-1
+car number:
+2
+born in the segment that is positioned at col:
+2
+born in the segment that is positioned at row:
+1
+born in the segment that is oriented in direction:
+1
+additional blocks to travel prior to turning (-1 means the car will never turn):
+0
+direction the car will turn, when the car turns:
+-1
+car number:
+3
+born in the segment that is positioned at col:
+2
+born in the segment that is positioned at row:
+1
+born in the segment that is oriented in direction:
+1
+additional blocks to travel prior to turning (-1 means the car will never turn):
+0
+direction the car will turn, when the car turns:
+-1
+car number:
+4
+born in the segment that is positioned at col:
+2
+born in the segment that is positioned at row:
+1
+born in the segment that is oriented in direction:
+1
+additional blocks to travel prior to turning (-1 means the car will never turn):
+0
+direction the car will turn, when the car turns:
+-1
+car number:
+5
+born in the segment that is positioned at col:
+2
+born in the segment that is positioned at row:
+1
+born in the segment that is oriented in direction:
+1
+additional blocks to travel prior to turning (-1 means the car will never turn):
+0
+direction the car will turn, when the car turns:
+-1
+
